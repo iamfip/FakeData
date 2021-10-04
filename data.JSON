@@ -4,7 +4,7 @@
     "id":1,
     "name": "React Crash Course" ,
     "price":45 ,
-    "image": "src/assets/angular.png",
+    "image": "https://cms-assets.tutsplus.com/uploads/users/1527/posts/29291/preview_image/react-crash-course.jpg",
     "enrolled": 1025,
     "rating": 4 
 
@@ -13,7 +13,7 @@
     "id":2,
     "name": "Vue Crash Course" ,
     "price":55 ,
-    "image": "src/assets/angular.png",
+    "image": "https://miro.medium.com/max/1400/0*GwH2c_fAasaKWzhS.jpg",
     "enrolled": 625,
     "rating": 3.5 
 
@@ -31,7 +31,7 @@
     "id":4,
     "name": "Complete BackEnd Developer" ,
     "price":245 ,
-    "image": "src/assets/angular.png",
+    "image": "https://i.ytimg.com/vi/kSxy6zCOtaQ/maxresdefault.jpg",
     "enrolled": 525,
     "rating": 4 
 
@@ -40,7 +40,7 @@
     "id":5,
     "name": "Complete Frontend Developer" ,
     "price":235 ,
-    "image": "src/assets/angular.png",
+    "image": "https://allprowebdesigns.com/blog/wp-content/uploads/2019/05/s_A4990DC22B1D46CA448F1AE183CF35A85C7797CC96F75B360FA272BA97889789_1554425490937_Screenshot2019-04-05at01.51.03-800x445.png",
     "enrolled": 625,
     "rating": 4 
 },
@@ -57,7 +57,7 @@
     "id":7,
     "name": "HTML and CSS" ,
     "price":25 ,
-    "image": "src/assets/angular.png",
+    "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/Want_to_learn_to_build_websites__Try_our_free_HTML__-CSS_crash_course.jpg",
     "enrolled": 2005,
     "rating": 5 
 
@@ -66,7 +66,7 @@
     "id":8,
     "name": "Full Stack Developer" ,
     "price":525 ,
-    "image": "src/assets/angular.png",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-157ca9cf7d924aa9990d8d9c28133180",
     "enrolled":105,
     "rating": 5 
 

@@ -48,7 +48,7 @@
     "id":6,
     "name": "Complete JavaScript Course" ,
     "price":105 ,
-    "image": "src/assets/angular.png",
+    "image": "https://www.creative-tim.com/blog/content/images/wordpress/2019/10/The-Top-10-Javascript-Frameworks.jpg",
     "enrolled": 1005,
     "rating":5
 

@@ -22,7 +22,7 @@
     "id":3,
     "name": "Flutter Crash Course" ,
     "price":65 ,
-    "image": "src/assets/angular.png",
+    "image": "https://i.morioh.com/2020/02/25/b9454811f81b.jpg",
     "enrolled": 525,
     "rating": 4 
 
